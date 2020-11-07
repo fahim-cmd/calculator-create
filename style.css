@@ -73,6 +73,7 @@ font-size: 25px;
 text-align: center;
 vertical-align: middle;
 margin-right: -4px;
+border: none;
 border-radius: 10px;
 cursor: pointer;
 }
@@ -99,8 +100,13 @@ color: #E0B612;
 .notify-section{
     width: 35%;
     margin: 0 auto;
+    
 }
 .action-left {
     color: #FF3C5F;
     margin-top: 10px;
+}
+#main-input{
+    font-size: 40;
+    font-weight: 700;
 }
